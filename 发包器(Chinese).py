@@ -1,3 +1,4 @@
+#Warning!线程太多会炸掉
 import socket
 import os
 import random
